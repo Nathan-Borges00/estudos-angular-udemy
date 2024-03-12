@@ -1,8 +1,8 @@
-import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
+import { NgModule } from '@angular/core';
 
-import { CategoriesRoutingModule } from './categories-routing.module';
 import { CategoriesListComponent } from './categories-list/categories-list.component';
+import { CategoriesRoutingModule } from './categories-routing.module';
 import { CategoryFormComponent } from './category-form/category-form.component';
 
 @NgModule({
